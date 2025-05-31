@@ -1,0 +1,41 @@
+.searchbar {
+    
+height: 48px;
+
+border: 1px solid #DDDDDD;
+border-radius: 40px;
+padding: 8px;
+
+display: flex;
+align-items: center;
+gap: 10px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 4px 12px rgba(0, 0, 0, 0.05);
+
+}
+
+.searchbar_btns_wrapper {
+
+    display: flex;
+    align-items: center;
+}
+
+
+
+.searchbar_btn:not(:last-child){
+
+    border-right: 1px solid #DDDDDD;
+
+}
+
+
+.searchbar_btn-search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    background-color: var(--acent) ;
+    border-radius: 50%;
+}
