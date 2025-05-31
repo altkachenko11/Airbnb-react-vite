@@ -28,9 +28,9 @@ src/
 
 📸
 
-![Desktop-Ansicht](./screenshots/011.png)
+![Desktop-Ansicht](./screenshots/013.png)
 
-  ![Desktop-Ansicht](./screenshots/012.png)
+
 
 ℹ️ Hinweise
 Icons sind im SVG-Format eingebunden
