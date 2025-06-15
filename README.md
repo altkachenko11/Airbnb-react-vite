@@ -42,7 +42,7 @@ Variablen und Schriftarten sind global über :root in vars.scss definiert
 Jeder Komponente ist eine eigene Style-Datei (style.module.scss) zugeordnet
 
 👩‍💻 Autorin
-Alona Tkatschenko
+Alona Tkachenko
 
 
 
