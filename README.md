@@ -30,7 +30,7 @@ src/
 
 ![Desktop-Ansicht](./screenshots/1414.png)
 
-![Desktop-Ansicht](./screenshots/1515.png)
+
 
 
 
